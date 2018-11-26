@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fca-ai",
+  "private_key_id": "e21c58d38d50c80780773f43976a6b47c2c89760",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfHypJOHZJ8sQ6\nZEd/YsiC4XTO0kdopM6rG9jLukXKM9UvkAOmFf72z6IUqI8t3wgOwKH61OiRl5ON\n8LcTzv/gyTF4yv99XQwFJP68Vvz2Rilv6moYaBwoxllc1UgbnckA7daSjlYVphoD\n1wEwwvsVR24v+KcIBNNTx8lTPoBejzbbaifjNiLX5kI/1WKwVPmMFLPscIeZx5sT\nQ0qJEssj3KYDkf0tIgbLLgRmpqTuAytkVgk9HD4EYQbHZ7rPoaqSWhhUdzWUUo8z\n9HhAixBgRlt3s14lBAF9MFXf/PGTVK4R1QNB84JFy3vVw5m8LbPKVLnYZ+hAW/DV\n+7HEmRjnAgMBAAECggEAAeBaS/AEDogWyqbv5CySq9NX4KR6souobshLvKBfD5Wf\n+vHgFMaqiO8WyEtmX73UjPLkwbsYdM5VOwRDBd7d15Vh9vbHTiKwqmojLQvAdvxy\ndNN864WrIYVqWaCIafdRinm34QmjYJluYI7Z3b4nmLq7XFvR0van96qtiy17mAqS\nnLgE7kiRQtERKWFlWIXiik3B5gYHKfdO25vWww3rGdydDgGw9IkQMTgat/+CKgoU\nm9IX4sH+dSrWLMq83WscsmJiUNB88vQQqP7vXDsA9wPoag3gQoL7fUswqj38Jqai\n+ZTSK3wKH6/eXBag3TIQlxin9OEDn7E0YXDi59AtCQKBgQDa4bZ11S1PRotLLugm\n3ftnlBSb/eMGfAWLnJlypkdIZU2dypF6uMMnWq6vrXWoHAdky2aaVy13kGKAHlTe\n+jzGhjhc0Dqc1b4QUV8WZ4+gNFYJ0JaAN0M/yBHdII0L9TOGcAFvKz3EC3LHRHHt\nRdt1k9yuZkYD0N42yAvrmq/k0wKBgQC6Gxmgm9uBSg6So06u6h+zNmN2l8IU6xH7\nOWvlcUfFME3NcgB2RgyKbJMbO1RZFs2yg5AJ4nL+vj+cEvvYQiyCV+b1c1jzwOyd\n+Qg9ajjtOq0z8VaU/AHNgtgjiEN4CFoiWaZ9Xy95PJuLDfcbMJm+oExzvAMR0wuC\njRSMkIr/HQKBgG9IYqP2BltP2nIXHyDjq3Y162SD6HDbjVY2AC4yK/u6xYN8AgsK\n9O2FRVs8LZ2S4o90em3t9MfdOLc6tJvJTi0BAJbvp10lrsRNGrMhY/xnn3bN/jah\n4icDaVGrwwpZWCD5wUDsEzMhPvHg8qtX4QQecQyaIu69urzPaIAY3WTRAoGAOWyv\nRa2R150ATiLx3msDiQrZOfitvEKkc75OGqgPmzrCZwgsOFJ5ACVsZtSxvCObKOAL\ni+FB1nThr8jzyNDyZu20qDwFUIFRAZWcA0dJdXnLg+GN876m18Dt7FjZaKo7FapQ\nAxNh1Kjs3cVbYBpo9jcEIBn9YHycapYZpx3apckCgYB14aYGecClFLipNjGsA94G\nM6+IhttiuRxJxLxK1sNWUTuxSYG3jyKQXwBtiQgOyAWCuA2HMrS9pGDxLNv24spv\nsCGCKH0nPPuNCg6/jfl11Bxx2DitE57MWCzJM67LKtZhOa7gDBflde3JtB4en0H0\nYSlKmcRVcJ1hKo/Sg8+VXg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "temp-docker-editor@fca-ai.iam.gserviceaccount.com",
+  "client_id": "116466068483938261092",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/temp-docker-editor%40fca-ai.iam.gserviceaccount.com"
+}
